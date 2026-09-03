@@ -220,8 +220,16 @@ reason "just following the spec" is not a complete ethical answer.
 
 ### Visual Diagram Blueprint Box
 
-You can't get an image from a worksheet, so here is a precise build spec. Draw this by
-hand (or in any diagram tool) — the act of drawing it is the point.
+**Both diagrams are drawn for you below.** The full annotation spec follows them — read it
+alongside the pictures; its callouts explain *why* each step happens, and it's still worth
+re-drawing Diagram 1 yourself from memory as a check.
+
+![Chapter 1, Diagram 1 — execution flow and memory state for the ticket-price script: a START-to-END flowchart of lines L1-L6 down the left, memory-state snapshots after L1/L3/L5/L6 in the middle, seven numbered callouts explaining each step, a colour key for str/float/int, and a SCREEN box showing the printed output "Ticket price check / Total: 50.0".](images/chapter_01_diagram_1_execution_flow.png)
+
+![Chapter 1, Diagram 2 — the three roles: PROGRAMMER --writes--> PROGRAM --serves--> END USER, with a "feedback / consequences" arrow looping back from the end user to the programmer. Under each box: what that role controls, is responsible for, and knows. A cloud callout reads "The programmer has the most knowledge AND the most power. That asymmetry is why 'the spec told me to' is not a full answer to an ethical question."](images/chapter_01_diagram_2_three_roles.png)
+
+The full annotation spec for both diagrams follows — use it to check details and read the
+callouts.
 
 ```
 [DIAGRAM DESIGN & ANNOTATION SPECIFICATION]
