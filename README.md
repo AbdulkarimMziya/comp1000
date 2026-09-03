@@ -5,9 +5,6 @@ Computer** (ICM, Fall 2026). Each worksheet stays one step ahead of the class sc
 lock in the current chapter's fundamentals and learn the next chapter early, tuned to the
 next quiz or test.
 
-> **Academic integrity.** These are practice material only. The course allows AI help
-> "when practicing coding and when reading through the textbook" — it does **not** allow
-> it on assignments, labs, or tests. Nothing here is to be copied into graded work.
 
 ---
 

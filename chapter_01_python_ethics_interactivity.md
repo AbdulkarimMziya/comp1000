@@ -229,13 +229,7 @@ re-drawing Diagram 1 yourself from memory as a check.
 ![Chapter 1, Diagram 2 — the three roles: PROGRAMMER --writes--> PROGRAM --serves--> END USER, with a "feedback / consequences" arrow looping back from the end user to the programmer. Under each box: what that role controls, is responsible for, and knows. A cloud callout reads "The programmer has the most knowledge AND the most power. That asymmetry is why 'the spec told me to' is not a full answer to an ethical question."](images/chapter_01_diagram_2_three_roles.png)
 
 The full annotation spec for both diagrams follows — use it to check details and read the
-callouts.
-
-```
-[DIAGRAM DESIGN & ANNOTATION SPECIFICATION]
-==========================================================================
 DIAGRAM 1 OF 2 — "EXECUTION FLOW + MEMORY STATE FOR AN INTERACTIVE SCRIPT"
-==========================================================================
 
 REFERENCE PROGRAM (the exact 6 logical lines the diagram must map):
 
@@ -298,9 +292,7 @@ COLOUR / STYLE HINTS
         Ticket price check
         Total: 50.0
 
-==========================================================================
 DIAGRAM 2 OF 2 — "THE THREE ROLES"
-==========================================================================
 
 Three boxes left-to-right, connected by arrows:
 
@@ -331,6 +323,7 @@ CALLOUT: "The programmer has the most knowledge AND the most power.
 That asymmetry is why 'the spec told me to' is not a full answer to an
 ethical question."
 ```
+callouts 
 
 ---
 
