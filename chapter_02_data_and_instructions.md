@@ -344,7 +344,7 @@ Nine quick questions to loosen up before the bigger exercises. Each is 30 second
 minutes. Do them **in your head or on paper**, or type them into a Python shell (the
 `>>>` prompt) or a scratch file `chapter_02/warmup.py` — whatever is fastest.
 
-**Answers are in the companion file `chapter_02_warmup_answers.md`.** Do all nine before
+**Answers are in `answers/chapter_02_warmup_answers.md`.** Do all nine before
 you open it.
 
 ### Predict the output

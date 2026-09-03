@@ -1,6 +1,6 @@
 # Chapter 1 — Warm-Up Drills: Answer Key
 
-> Companion to **Section 3** of `chapter_01_python_ethics_interactivity.md`.
+> Companion to **Section 3** of `../chapter_01_python_ethics_interactivity.md`.
 > Try all nine drills first. For anything you missed, don't just read the answer — retype
 > the snippet, run it, and watch it behave.
 
