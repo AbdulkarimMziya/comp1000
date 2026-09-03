@@ -1,6 +1,6 @@
 # Chapter 2 — Warm-Up Drills: Answer Key
 
-> Companion to **Section 3** of `chapter_02_data_and_instructions.md`.
+> Companion to **Section 3** of `../chapter_02_data_and_instructions.md`.
 > Try all nine drills first. For anything you missed, retype the snippet, run it, and
 > watch it behave.
 
