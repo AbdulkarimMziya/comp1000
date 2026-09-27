@@ -14,6 +14,7 @@ next quiz or test.
 |---|-----------|-----------|---------|
 | 1 | [`chapter_01_python_ethics_interactivity.md`](chapter_01_python_ethics_interactivity.md) | Week 1 (Sept 9, 13) | **Quiz 1** (Mon Sept 14) |
 | 2 | [`chapter_02_data_and_instructions.md`](chapter_02_data_and_instructions.md) | Week 2 (Sept 14, 16) | **Test 1** (Wed Sept 23, cumulative Ch 1–2) |
+| 4 | [`chapter_04_notes.md`](chapter_04_notes.md) + [`chapter_04_practice.md`](chapter_04_practice.md) | Week 4 (Sept 28, Oct 4) | **Quiz 3** (Mon Oct 5), **Test 2** (Wed Oct 14) |
 
 ### Chapter 1 — Python, Ethics & Interactivity
 
@@ -36,6 +37,14 @@ next quiz or test.
 - Strings: `*` (repeat), `len()`.
 - Ethics angle: honesty in how numbers are stored and shown (types, rounding, float display).
 
+### Chapter 4 — Iteration & Strings *(short format)*
+
+- `for` loops, `range(start, stop, step)` (stop is never included), tracing loops in a table.
+- Loop patterns: sum, product, building a string.
+- Strings: looping over characters, indexing (incl. negative), `len`, slicing, `[::-1]`,
+  immutability, basic methods.
+- Opens with a one-screen recap card of Ch 1–3.
+
 ---
 
 ## Repository layout
@@ -47,6 +56,8 @@ comp1000/
   answers/
     chapter_01_warmup_answers.md              Section 3 warm-up answer key
     chapter_02_warmup_answers.md
+  chapter_04_notes.md                         short notes (Ch 4 on)
+  chapter_04_practice.md                      graded task ladder, no answer key
   images/
     chapter_01_diagram_1_execution_flow.png   rendered diagrams
     chapter_01_diagram_2_three_roles.png
@@ -57,7 +68,16 @@ worksheet's Setup section lists the exact filenames).
 
 ---
 
-## How each worksheet is built
+## Short format (Chapter 4 onward)
+
+Each chapter is two files, gym-style: a **short notes file** to read and come back to
+(a recap card, one-idea mini-lessons, each with a ⚠ Trap, and a self-check), and a
+**practice file** with the real workout: Level 1 predict the output → Level 2 fix the
+bug → Level 3 write it → Level 4 LeetCode warm-ups. There's no answer key on purpose:
+run the code to check predictions, and match your output to the sample runs. Code stays
+strictly within what the course has taught so far.
+
+## How each worksheet is built (Chapters 1–2)
 
 1. **▶ Before You Start** — an ordered *Python for Non-Programmers* (LinkedIn Learning)
    watch list mapped to the chapter, plus a "concepts to understand before the questions"
