@@ -15,6 +15,9 @@ next quiz or test.
 | 1 | [`chapter_01_python_ethics_interactivity.md`](chapter_01_python_ethics_interactivity.md) | Week 1 (Sept 9, 13) | **Quiz 1** (Mon Sept 14) |
 | 2 | [`chapter_02_data_and_instructions.md`](chapter_02_data_and_instructions.md) | Week 2 (Sept 14, 16) | **Test 1** (Wed Sept 23, cumulative Ch 1–2) |
 | 4 | [`chapter_04_notes.md`](chapter_04_notes.md) + [`chapter_04_practice.md`](chapter_04_practice.md) | Week 4 (Sept 28, Oct 4) | **Quiz 3** (Mon Oct 5), **Test 2** (Wed Oct 14) |
+| 5, 8 | [`functions_notes.md`](functions_notes.md) + [`functions_practice.md`](functions_practice.md) | Weeks 5 + 8 | **Test 3** (Wed Nov 4) |
+| 5 | [`reading_files_notes.md`](reading_files_notes.md) + [`reading_files_practice.md`](reading_files_practice.md) | Week 5 | A2 prep (reading only), **Test 3** |
+| 9 | [`lists_2d_notes.md`](lists_2d_notes.md) + [`lists_2d_practice.md`](lists_2d_practice.md) | Week 9 (Nov 2, 4) | **Test 3** (Wed Nov 4) |
 
 ### Chapter 1 — Python, Ethics & Interactivity
 
@@ -45,6 +48,15 @@ next quiz or test.
   immutability, basic methods.
 - Opens with a one-screen recap card of Ch 1–3.
 
+### Topic sheets: Functions, Reading Files, Strings/Lists/2D Lists *(beginner format)*
+
+- Notes open with a **Key Words** table and a **Big Picture** step list, and every lesson is
+  tagged with the step it belongs to.
+- Practice opens with **Level 0: Words & Steps** on paper, then predict → fix the bug →
+  write it, using copy-paste blocks that start with a `# filename:` line.
+- Reading files: the student makes each `.txt` himself from a 📄 box placed right above
+  the question that needs it.
+
 ---
 
 ## Repository layout
@@ -58,6 +70,9 @@ comp1000/
     chapter_02_warmup_answers.md
   chapter_04_notes.md                         short notes (Ch 4 on)
   chapter_04_practice.md                      graded task ladder, no answer key
+  functions_notes.md / _practice.md           def, parameters, return, docstrings
+  reading_files_notes.md / _practice.md       open/read/close (reading only)
+  lists_2d_notes.md / _practice.md            strings, lists, 2D lists, searching
   images/
     chapter_01_diagram_1_execution_flow.png   rendered diagrams
     chapter_01_diagram_2_three_roles.png
